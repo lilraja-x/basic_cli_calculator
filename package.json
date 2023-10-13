@@ -1,7 +1,6 @@
 {
-  "name": "new-folder",
+  "name": "basic_cli_calculator",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -15,7 +14,7 @@
     "registry": "https://npm.pkg.github.com"
   },
   "keywords": [],
-  "author": "",
+  "author": "Raja Uzair",
   "license": "ISC",
   "devDependencies": {
     "@types/chalk": "^2.2.0",
@@ -27,5 +26,10 @@
     "chalk": "^5.3.0",
     "chalk-animation": "^2.0.3",
     "inquirer": "^9.2.11"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/lilraja-x/basic_cli_calculator/issues"
+  },
+  "homepage": "https://github.com/lilraja-x/basic_cli_calculator#readme",
+  "description": ""
 }
